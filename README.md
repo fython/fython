@@ -15,3 +15,5 @@ I am addicting to watching VTubers (such as Minato Aqua) these days. To facilita
 - [danmaqua-telegrambot](https://github.com/danmaqua/danmaqua-telegrambot): Forward translation danmaku to Telegram Channels.
 
 For past works see [here](https://github.com/fython/fython/blob/master/PAST.md).
+
+If you like my projects, you can buy me a coffee at [afdian.net](https://afdian.net/@siubeng) <3
