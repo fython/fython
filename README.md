@@ -11,7 +11,7 @@
 
 I am addicting to watching VTubers (such as Minato Aqua) these days. To facilitate viewers with insufficient language skills (including me `_(:3」∠)_`) to watch their live, I made two tools:
 
-- [FloatingSubtitle/悬浮字幕](https://github.com/fython/danmaqua-android): Make translation danmaku show as floating subtitle on Android.
+- [FloatingSubtitle/悬浮字幕](https://github.com/danmaqua/danmaqua-android): Make translation danmaku show as floating subtitle on Android.
 - [danmaqua-telegrambot](https://github.com/danmaqua/danmaqua-telegrambot): Forward translation danmaku to Telegram Channels.
 
 For past works see [here](https://github.com/fython/fython/blob/master/PAST.md).
