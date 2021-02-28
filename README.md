@@ -1,4 +1,4 @@
-燒餅（Siubeng Fung）
+燒餅（Siubeng）
 ======
 
 - **Current residence:** 🏘Canton, China
@@ -9,8 +9,7 @@
 
 ## Recent works / 最近工作
 
-I am addicting to watching VTubers (such as Minato Aqua) these days. To facilitate viewers with insufficient language skills (including me `_(:3」∠)_`) to watch their live, I made two tools:
-
+- [vscode-gwo-android-helper](https://github.com/fython/vscode-gwo-android-helper): Browse files on your Android devices with Visual Studio Code
 - [FloatingSubtitle/悬浮字幕](https://github.com/danmaqua/danmaqua-android): Make translation danmaku show as floating subtitle on Android.
 - [danmaqua-telegrambot](https://github.com/danmaqua/danmaqua-telegrambot): Forward translation danmaku to Telegram Channels.
 
