@@ -16,4 +16,4 @@ Past works / 过去工作
 - [BreadcrumbsView](https://github.com/fython/BreadcrumbsView)
 - [BiometricPromptCompat](https://github.com/fython/BiometricPromptCompat)
 
-目前从事企业协同办公软件产品的运营系统开发工作，支撑运维团队和现网业务的运营需求，并参与内部微服务框架设计开发，主要技术栈为 Golang + Vue.js。
+目前从事企业协同办公软件产品的运营系统开发工作，支撑 DevOps 与内部运营需求，主要技术栈为 Golang / Vue.js + TypeScript / Node.js。
