@@ -2,8 +2,8 @@
 ======
 
 - **Communication language:** 💬Cantonese, Mandarin, English
-- **Most used:** ☕Kotlin, Java, Golang, TypeScript
-- **Interest:** Android Dev, Anime & Games
+- **Most used:** Golang, TypeScript, Kotlin
+- **Interest:** DevOps, Android Dev, Music, Anime & Games
 
 ## Recent works / 最近工作
 
