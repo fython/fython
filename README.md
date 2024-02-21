@@ -1,9 +1,9 @@
 燒餅（Siubeng）
 ======
 
-- **Communication language:** 💬Cantonese, Mandarin, English
-- **Most used:** Golang, TypeScript, Kotlin
-- **Interest:** DevOps, Android Dev, Music, Anime & Games
+- **Communication language:** 💬Cantonese, Mandarin, English. Learning Japanese
+- **Most used:** Golang, TypeScript, Rust, Kotlin
+- **Interest:** DevOps, Music, Anime & Games, Android
 
 ## Recent works / 最近工作
 
